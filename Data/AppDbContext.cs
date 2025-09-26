@@ -31,9 +31,17 @@ public class AppDbContext : DbContext
         }
     }
     
+    // ANTES DE EJECUTAR EL PROGRAMA DEBEMOS CORRER ESTO EN TERMINAL:
     // Para empezar la migración:
-        //dotnet ef migrations and InitialCreate
+        //dotnet ef migrations add InitialCreate
         
     // Refrescar la bd:
         // dotnet ef database update
+        
+    // Ahora si ya ejecutamos el programa.
+    
+    // Si tuvieramos que modificar o agregar campos en la BD, tenemos
+    // que eliminar la carpeta: "Migrations" y volver a ejecutar:
+    //      'dotnet ef migrations add InitialCreate'
+    //      'dotnet ef database update'
 }

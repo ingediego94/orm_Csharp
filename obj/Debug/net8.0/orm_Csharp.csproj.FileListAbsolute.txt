@@ -110,6 +110,7 @@
 /home/diego/Documents/diego_dev/orm_Csharp/obj/Debug/net8.0/orm_Csharp.AssemblyInfoInputs.cache
 /home/diego/Documents/diego_dev/orm_Csharp/obj/Debug/net8.0/orm_Csharp.AssemblyInfo.cs
 /home/diego/Documents/diego_dev/orm_Csharp/obj/Debug/net8.0/orm_Csharp.csproj.CoreCompileInputs.cache
+/home/diego/Documents/diego_dev/orm_Csharp/obj/Debug/net8.0/orm_Csharp.sourcelink.json
 /home/diego/Documents/diego_dev/orm_Csharp/obj/Debug/net8.0/orm_Csharp.csproj.CopyComplete
 /home/diego/Documents/diego_dev/orm_Csharp/obj/Debug/net8.0/orm_Csharp.dll
 /home/diego/Documents/diego_dev/orm_Csharp/obj/Debug/net8.0/refint/orm_Csharp.dll
